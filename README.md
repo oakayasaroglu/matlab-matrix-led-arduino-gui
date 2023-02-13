@@ -3,10 +3,12 @@ a matlab gui that can communicate with arduino uno
 #
 This MATLAB GUI can do:
 - Communicating with Arduino UNO from serial port
-- Controlling matrix led
+- Controlling matrix led and adjust brightness of leds
 - Plotting a time-lumen graph
 - Export image of figure
 - Print figure
+
+
 ## User Interface
 
 
